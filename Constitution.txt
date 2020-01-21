@@ -1,14 +1,16 @@
 ﻿Computer Science Club Constitution
 
-Purpose: To promote computer skills and programming in a fun and enjoyable manner[, and to develop software that is useful to students in their academic endeavors].
+Purpose: To promote computer skills and programming in a fun and enjoyable manner, and to develop software that is useful to students in their academic endeavors . Also, to help each other become better programmers, to learn stuff, and to gather a group of totally awesome people to (hopefully!) become friends!
 
-Membership: The members may consist of any and all persons directly associated with the Franciscan University (i.e. Students and Faculty). To become a member, one must attend at least one official club meeting /* and sign a roster */. Nothing else is required.
+Membership: The members may consist of any and all persons directly associated with the Franciscan University (i.e. Students and Faculty). To be a member, go to a club meeting, join the Discord chat (if you want, but you don't have to), and be awesome!
 
-Officers: The Officers shall consist of as follows —
-	President — He shall be a current student of the Franciscan University. /* He shall be a member of the Association of Computing Machinery (ACM). */ He shall be voted to this position by the current attendees of any official club meeting where the current president or faculty advisor may call an election. His term shall be indefinite. His duties include but are not limited to calling and organizing meetings; deciding the progam, judging the entries, and determining the winner of the club programming contest(s); organizing and planning the LAN party (???); handling the purchase of club equipment(,) and petitioning FUSA for funds as the need arises; and promoting club recognition on campus.
-	Vice President — He shall be voted to this position by the current attendees of any official club meeting where the current president or faculty advisor may call an election. He shall be a current student of the Franciscan University, and his term shall be indefinite. His duties include but are not limited to assisting the President in all of his duties especially in the absence of the President.
-	Secretary/Treasurer — He shall be appointed by the President of the club. He shall be a current student of Franciscan University, and his term shall be indefinite. His duties include assisting the President and Vice President in all of their duties.
+Meetings: The club shall usually meet once a week on Mondays at 8 pm. Meetings usually last an hour, but feel free to arrive earlier or stay later!
 
-Funding: All funding shall come from a semesterly budget from FUSA and petitions for further funding when the need arises. This club is non-profit and shall not require any financial assistance from club members.
+Officers: The Officers shall consist of as follows:
+	President — He or she has to be a current student of the Franciscan University. He shall be voted into office at the first meeting of any given school year. His term shall be for one year, after which he shall be deposed from office (forcibly if needed) and another election shall be held (at which the same person may be elected). He is in charge of maintaining the club and making sure that the club remains official. He shall be in charge of helping to arrange for speakers (although this is not soley his responsibility, and with his approval, others may help).
+	Vice President — He or she shall be a current student of the Franciscan University. He shall be voted into office at the first meeting of any given school year. His term shall be the same as that of the president. His duties include (but are not limited to) assisting the President in all of his duties, especially if something happens to the President (eg. nuclear bomb, the plague, etc.).
+	The faculty advisor may depose of any officer at any time for any reason, even if that reason has something to do with chocolate chip cookies.
 
-Club Constitution Ratification: The Constitution shall be adopted by first being drafted by the current club President and then by approval of the faculty advisor.
+Funding: As of right now, we don't think that we wil need funding. If we do, we'll decide what to do then. No member of the club should get paid for being a part of the club. If that's what you're looking for, you're in the wrong club.
+
+Club Constitution Ratification: The Constitution shall be adopted by first being drafted by the current club President, reviewed and ammended as needed by the members of the club, then by approval of the faculty advisor.
